@@ -1,7 +1,7 @@
 <h1> Hi, I'm Pavan H </h1>
 
 - 🌱 I’m currently learning Java and DSA.
-- 😀 My [![Linkedin]]([actual_link](https://www.linkedin.com/in/pavan-h-808a1a19b/))
+- 😀 My [Linkedin](https://www.linkedin.com/in/pavan-h-808a1a19b/)
 - 📫 Reach out to me at officialpavanh@gmail.com
   
 
