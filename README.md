@@ -1,3 +1,5 @@
+<h1> Hi, I'm Pavan H </h1>
+
 - 👋 Hi, I’m Pavan H
 - 👀 I’m interested in Computer science and Programming.
 - 🌱 I’m currently learning Java and DSA.
