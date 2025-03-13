@@ -11,18 +11,30 @@ Welcome to my GitHub profile! I'm a **Java Backend Developer** passionate about 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
 
-🎯 **Currently Learning:** Full-Stack Development (React + Java Backend)  
-📌 **Goal:** Become a skilled Full-Stack Developer and contribute to open-source  
+## 📫 Connect with Me  
 
-Feel free to explore my repositories and connect with me!  
-<h1> Hi, I'm Pavan H </h1>
+<p align="center">
+  <a href="https://www.instagram.com/pavan._.h/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/pavan-h-808a1a19b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-- 🌱 I’m currently learning Java and DSA.
-- 😀 My [Linkedin](https://www.linkedin.com/in/pavan-h-808a1a19b/)
-- 📫 Reach out to me at officialpavanh@gmail.com
-  
+## 🎯 Currently Learning  
+- Full-Stack Development (React + Java Backend)  
+- System Design & Scalability  
 
-<!---
-pavanhGit/pavanhGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📌 Goal  
+Become a skilled **Full-Stack Developer** and contribute to open-source.  
+
+---
+
+✨ _Feel free to explore my repositories and connect with me!_ 🚀
