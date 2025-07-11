@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Pavan!  
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-username&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
+![Visitor Badge](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
 
 
 Welcome to my GitHub profile! I'm a **Java Backend Developer** passionate about coding, building scalable applications, and sharing knowledge.  
